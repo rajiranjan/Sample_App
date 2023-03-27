@@ -36,3 +36,10 @@
     padding: 20px;
     font-size: 20px;
 }
+.order>li{
+    display:inline-block;
+    text-indent: 15px;
+}
+.order{
+    text-align: center;
+}
