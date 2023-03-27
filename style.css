@@ -1,0 +1,38 @@
+.list{
+    float: right;
+    margin-right: 35px;
+    text-indent: 5px;
+    display: block;
+    margin-top: -10px;
+}
+.list1{
+    float: left;
+    margin-left: 45px;
+    display: block;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.nav{
+    background-color: grey;
+    padding: 25px;
+    box-shadow: 5px 5px 5px;
+}
+.text{
+    float:left;
+    margin-left: 205px;
+    border: 95px;
+    
+}
+.img{
+    float:right;
+    margin-right: 100px;
+    border: 25px;
+}
+.flex-container{
+    display: flex;
+}
+.flex-container>div{
+    margin:10px;
+    padding: 20px;
+    font-size: 20px;
+}
